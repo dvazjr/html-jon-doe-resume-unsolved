@@ -17,6 +17,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@playwright/test": "^1.49.1"
+    "@playwright/test": "^1.49.1",
+    "eslint": "^9.19.0",
+    "live-server": "^1.2.2"
   }
 }
